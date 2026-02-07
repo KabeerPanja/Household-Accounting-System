@@ -1,0 +1,114 @@
+{
+    "months": {
+        "2025-11": {
+            "starting_balance": 35000,
+            "expenses": [
+                {
+                    "date": "05-11-2025",
+                    "item": "Milk",
+                    "quantity": 2,
+                    "amount": 300
+                },
+                {
+                    "date": "07-11-2025",
+                    "item": "Potato",
+                    "quantity": 5,
+                    "amount": 850
+                },
+                {
+                    "date": "12-11-2025",
+                    "item": "Rice",
+                    "quantity": 10,
+                    "amount": 2500
+                }
+            ]
+        },
+        "2025-12": {
+            "starting_balance": 40000,
+            "expenses": [
+                {
+                    "date": "03-12-2025",
+                    "item": "Chicken",
+                    "quantity": 3,
+                    "amount": 1800
+                },
+                {
+                    "date": "10-12-2025",
+                    "item": "Chips",
+                    "quantity": 6,
+                    "amount": 900
+                },
+                {
+                    "date": "18-12-2025",
+                    "item": "Cooking Oil",
+                    "quantity": 2,
+                    "amount": 3200
+                },
+                {
+                    "date": "25-12-2025",
+                    "item": "Fruits",
+                    "quantity": 4,
+                    "amount": 1200
+                }
+            ]
+        },
+        "2026-01": {
+            "starting_balance": 45000,
+            "expenses": [
+                {
+                    "date": "02-01-2026",
+                    "item": "Bread",
+                    "quantity": 5,
+                    "amount": 500
+                },
+                {
+                    "date": "06-01-2026",
+                    "item": "Meat",
+                    "quantity": 4,
+                    "amount": 2800
+                },
+                {
+                    "date": "11-01-2026",
+                    "item": "Carrot",
+                    "quantity": 3,
+                    "amount": 450
+                },
+                {
+                    "date": "11-01-2026",
+                    "item": "Onion",
+                    "quantity": 2,
+                    "amount": 300
+                },
+                {
+                    "date": "11-01-2026",
+                    "item": "Tomato",
+                    "quantity": 1,
+                    "amount": 100
+                },
+                {
+                    "date": "15-01-2026",
+                    "item": "Spices",
+                    "quantity": 2,
+                    "amount": 600
+                },
+                {
+                    "date": "20-01-2026",
+                    "item": "Snacks",
+                    "quantity": 8,
+                    "amount": 1400
+                }
+            ]
+        },
+        "2026-02": {
+            "starting_balance": 20000,
+            "expenses": [
+                {
+                    "date": "03-02-2026",
+                    "item": "Carrot",
+                    "quantity": 6,
+                    "amount": 950
+                }
+            ]
+        }
+    }
+}
