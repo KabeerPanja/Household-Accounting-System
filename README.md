@@ -28,24 +28,24 @@ This app helps users manage monthly balances, track expenses, and view financial
 - JSON (for data storage)
 
 # 📁 Project Structure
-Accounts/
-│
-├── app.py                 # Main application file
-├── data/
-│   └── expense.json       # Expense and balance data
-├── logic/
-│   └── expense_logic.py   # Business logic
-├── ui/
-│   └── expense_ui.py      # User interface components
-└── image/
-    └── accounting_image.svg
+- Accounts/
+- │
+- ├── app.py                 # Main application file
+- ├── data/
+- │   └── expense.json       # Expense and balance data
+- ├── logic/
+- │   └── expense_logic.py   # Business logic
+- ├── ui/
+- │   └── expense_ui.py      # User interface components
+- └── image/
+-      └── accounting_image.svg
 
 # 🔑 Demo Login
 
 For demonstration purposes, use the following credentials:
 
-Username: demo
-Password: demo123
+### Username: demo
+### Password: demo123
 
 # ▶️ How to Run the Project Locally
 
@@ -85,6 +85,7 @@ This project was developed as a learning and portfolio project to practice:
 
 # 👨‍💻 Author
 
-Kabeer
+Muhammad Kabeer
+
 
 Student | Python & Machine Learning Enthusiast
