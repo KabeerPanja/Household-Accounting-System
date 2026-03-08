@@ -53,6 +53,10 @@ For demonstration purposes, use the following credentials:
 
 - pip install streamlit
 
+# 🌐 Online App Link
+
+- https://household-accounting-system.streamlit.app/
+
 ## Run the application:
 
 - streamlit run app.py
@@ -89,3 +93,4 @@ Muhammad Kabeer
 
 
 Student | Python & Machine Learning Enthusiast
+
